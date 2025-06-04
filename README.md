@@ -23,11 +23,12 @@ functions.
 As this is version 1.3.1 of the package, it is possible that there are
 some bugs in places. Please report any issues to us via GitHub.
 
-Please see the accompanying paper (Sayol et al., in review) and package
+Please see the accompanying paper (Sayol et al., 2024) and package
 vignette for more detailed information regarding use of the package.
 
 Sayol, F., J. P. Wayman, P. Dufour, and et al. 2024. “AVOTREX: A Global
-Dataset of Extinct Birds and Their Traits.” Journal Article. In Review.
+Dataset of Extinct Birds and Their Traits.” Global Ecology & Biogeography,
+33, e13927.
 
 ## Installation
 
